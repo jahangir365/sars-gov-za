@@ -1,0 +1,269 @@
+body{
+    background: #12334f;
+}
+.font-12{
+    font-size: 12px;
+}
+.relative{
+    position: relative;
+}
+.text-decoration{
+    text-decoration: none;
+}
+.copy-right p{
+    color: #cecece;
+    font-size: 12px;
+}
+.logo-sectoin{
+    background: #015289;
+    padding: 20px 20px;
+
+}
+.up-menu{
+    background: #015289;
+}
+.up-menu a{
+    display: inline-block;
+    width: 24.66%;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    background: #0077b8;
+    font-size: 14px;
+}
+.up-menu a:hover{
+        background-color: #0b5983;
+}
+.middle-menu{
+    padding:6px;
+    text-align: center;
+    background: #ffffff;
+}
+.middle-menu a{
+    color: #015289;
+    font-size: 14px;
+    padding: 10px;
+    margin: 0px 29px;
+}
+.footer{
+    background: #303030;
+    padding: 30px 0px;
+}
+.form-section{
+    background: #fff;
+}
+.middle-bottom{
+    background: #015289;
+    padding: 30px;
+}
+.middle-bottom a{
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    color: #015289;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.middle-left{
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+}
+.right-side{
+    width: 80%;
+    background: #fff;
+    margin-right: 40px;
+    border-radius: 10px;
+    margin-left: -20px;
+    z-index: -1;
+    position: relative;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+}
+.btn-blu{
+    width: 102%;
+    display: block;
+    color: #fff;
+    background: #015289;
+    padding: 10px 80px;
+    margin: 10px 0px;
+    margin-left: -60px;
+}
+.btn-blu i{
+    margin-right: 20px;
+}
+.btn-blu-txt{
+    display: block;
+    color: #6f6969;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    padding-left: 80px;
+    margin-left: -60px;
+}
+.btn-blu-txt i{
+    color: #015289;
+    margin-right: 10px;
+}
+.list-box{
+    padding-left: 19px;
+}
+.list-box h2{
+    color: #0082c8;
+}
+.list-box a{
+    color: #015289;
+}
+.list-box ul {
+    padding-left: 1rem;
+}
+.middle-section{
+    margin-bottom: 20px;
+}
+.header{
+    background: #333333;
+}
+.text-underline{
+    text-decoration: underline;
+}
+#navbarSupportedContent a{
+    color: #fff;
+    margin: 0px 10px;
+}
+#navbarSupportedContent a i{
+    font-size: 22px;
+}
+.search-box input{ 
+    height: 26px;
+    border-radius: 4px 0px   0px 4px;
+    min-width: calc(1* 26px);
+}
+.search-box button{
+    height: 26px;
+    padding: 2px 10px;
+    color: #fff;
+    background: #69727d;
+    border-radius: 0px 4px 4px 0px;
+    margin-left: -1px;
+    position: relative;
+    z-index: 99;
+}
+.form-section h3{
+    color: #005187 !important;
+    font-weight: bold;
+}
+.form-section label{
+    color: #005187 !important;
+}
+.form-section input{
+    border-color:  #005187 !important;
+}
+.form-floating>.form-control:focus~label, .form-floating>.form-control:not(:placeholder-shown)~label, .form-floating>.form-select~label{
+    opacity: 1 !important;
+}
+.form-floating>.form-control, .form-floating>.form-select {
+    height: calc(2.5rem + 2px);
+    line-height: 1.25;
+}
+.form-floating>label{
+    padding: 0px 0px;
+    height: fit-content;
+    top: -16px;
+    left: 7px;
+    background: #fff;
+}
+.form-floating>.form-control:focus~label, .form-floating>.form-control:not(:placeholder-shown)~label, .form-floating>.form-select~label {
+    transform: scale(.85) translateY(0.2rem) translateX(.15rem);
+}
+.form-select{
+    border-color:  #005187 !important;
+    padding-top: 0px !important;
+}
+#form-selectt label {
+    left: 7px !important;
+    padding: 0px;
+    height: auto;
+    top: -16px;
+}
+.submit{
+    color: #fff;
+    background: #00558b;
+    padding: 6px 30px;
+    border-radius: 4px;
+    border: 0px;
+}
+
+.error {
+      color: red;
+      display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.color{
+    color: #0082c8;
+}
+
+
+
+@media only screen and (max-width: 922px) {
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    .right-side{
+        width: 100%;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .middle-bottom.d-flex.justify-content-between.align-items-center {
+        display: block !important;
+    }
+    .middle-bottom a {
+        background: #fff;
+        border-radius: 5px;
+        padding: 10px;
+        color: #015289;
+        font-size: 10px;
+        width: 100%;
+        text-decoration: underline;
+        line-height: 52px;
+    }
+    .middle-bottom {
+        background: #015289;
+        padding: 19px;
+    }
+    .up-menu a{
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    .middle-menu a{
+        width: 100%;
+    }
+    .middle-menu.text-end{
+        text-align: center !important;
+    }
+    .fin{
+        margin-top: 5px;
+    }
+}
+@media only screen and (max-width: 600px) {
+
+}

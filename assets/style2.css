@@ -1,0 +1,509 @@
+/* Basic reset */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.btn-primary {
+    background-color: #133d77;
+    color: white;
+    width: 150px;
+    border-radius: 20px;
+
+}
+
+.box-step.active {
+    background: #133d77;
+    color: #fff;
+}
+
+.box-step.active p {
+    text-align: center;
+    color: white;
+    line-height: 15px;
+    margin-top: 4px;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.pt-3 {
+    padding-top: 1rem !important;
+}
+
+.w-33 {
+    width: 33%;
+}
+
+.box-step {
+    background: #F3F2F2;
+}
+
+.box-step p {
+    text-align: center;
+    line-height: 11px;
+    margin-top: 4px;
+
+}
+
+/* page2 */
+
+
+.firstcontainer {
+    background-color: #ffff;
+    height: auto;
+}
+
+
+input[type=submit] {
+    background-color: #CCCCCC;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #133d77;
+    color: #FFFFFF;
+}
+
+
+.box-container {
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #133d77;
+    margin-bottom: 100px;
+    color: #ffff;
+}
+
+.box-grid {
+    width: 960px;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: top;
+}
+
+.first-item {
+    order: 1;
+}
+
+
+
+/* Navbar styles */
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    align: left;
+    text-align: left;
+    margin: 10px 15px;
+    font-weight: normal;
+    line-height: normal;
+    text-wrap: normal;
+    white-space: normal;
+}
+
+a {
+    color: #FFFFFF !important;
+    background-color: inherit !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+
+}
+
+
+
+.form-check {
+    text-align: left;
+    padding-bottom: 15px;
+}
+
+.inline-fields {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.inline-fields .form-group {
+    flex: 1;
+    margin-right: 50px;
+    text-align: left;
+}
+
+.inline-fields .form-group:last-child {
+    margin-right: 0;
+}
+
+
+.page_container {
+    display: flex;
+    margin: 0 100px;
+    justify-content: center;
+}
+
+.package,
+.delivery_payment,
+.confirm {
+    margin-top: 20px;
+    padding: 10px;
+    min-width: 250px;
+    background-color: #133d77;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    list-style: none;
+    border-bottom: 4px solid transparent;
+}
+
+.package a,
+.delivery_payment a,
+.confirm a {
+    color: white;
+}
+
+.package:hover {
+    border-bottom: 4px solid #133d77;
+}
+
+.delivery_payment:hover {
+    border-bottom: 4px solid #133d77;
+}
+
+.confirm:hover {
+    border-bottom: 4px solid #133d77;
+}
+
+
+.navbar {
+    background-color: #c1001e;
+    /* Red background */
+    color: white;
+    padding: 0px;
+    position: relative;
+}
+
+/* Container for navbar content */
+.nav-container {
+    display: flex;
+    justify-content: center;
+    /* Center all contents horizontally */
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* position: relative; */
+}
+
+/* Logo styles */
+.logo {
+    position: absolute;
+    /* Position logo on the left side */
+    left: 20px;
+}
+
+.logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+/* Menu styles */
+.nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 0px;
+    /* Space between menu items */
+}
+
+.nav-menu li {
+    padding: 10px;
+    margin: 0px 15px;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-menu a:hover {
+    text-decoration: underline;
+}
+
+/* Show More button styles */
+.nav-toggle {
+    background-color: #ffffff;
+    color: #c1001e;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    display: none;
+    /* Hidden by default */
+}
+
+.nav-toggle:hover {
+    background-color: #f2f2f2;
+}
+
+
+
+/* page3 */
+.box-grid {
+    width: 960px;
+    height: auto;
+    display: flex;
+    justify-content: space-around !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+    align-items: top;
+}
+
+img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    border: none;
+}
+
+.footer-container {
+    background-color: #CCCCCC;
+    display: flex;
+    height: auto;
+}
+
+
+.form-box {
+    padding: 50px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 700px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-box2 {
+    padding: 50px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 700px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.submit {
+    padding: 10px;
+    width: 100%;
+    /* height: 100%; */
+    top: 0;
+    left: 50%;
+    border-radius: 3em;
+    border: 0.065em solid transparent;
+    background: #133d77;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    background: #133d77;
+}
+
+.page_container {
+    display: flex;
+    margin: 0 100px;
+    justify-content: center;
+}
+
+.package,
+.delivery_payment,
+.confirm {
+
+    margin-top: 20px;
+    padding: 10px;
+    min-width: 250px;
+    background-color: #133d77;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    list-style: none;
+    border-bottom: 4px solid transparent;
+}
+
+.package a,
+.delivery_payment a,
+.confirm a {
+    color: white;
+}
+
+.package:hover {
+    border-bottom: 4px solid #133d77;
+}
+
+.delivery_payment:hover {
+    border-bottom: 4px solid #133d77;
+}
+
+.confirm:hover {
+    border-bottom: 4px solid #133d77;
+}
+
+
+.form-box {
+    background: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5rem;
+    margin-top: -30px;
+}
+
+.form-box2 {
+    background: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 8rem;
+    margin-top: -25px;
+}
+
+.form-box p {
+    font-weight: bold;
+    margin-bottom: 1rem;
+    font-size: 18px;
+    color: #133d77;
+}
+
+.custom-control {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    padding: 0.75rem;
+    width: 100%;
+    z-index: 0 !important;
+}
+
+.custom-control select {
+    height: auto;
+}
+
+
+
+.submit svg {
+    margin-left: 0.5rem;
+}
+
+.payment-box img {
+    max-width: 100%;
+}
+
+label {
+    text-align: left;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+    }
+
+    .nav-menu {
+        display: none !important;
+    }
+
+    .nav-menu.active {
+        display: flex;
+    }
+
+    .nav-menu li {
+       display: none;
+    }
+
+    .footer.footer {
+        width: 101%;
+        position: fixed;
+        left: 0;
+        bottom: 0px;
+    }
+
+    .col-sm-3 {
+        margin-top: 8px !important;
+    }
+
+    .nav-toggle {
+        display: block;
+        /* Show button on small screens */
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .header {
+        display: block;
+        text-align: center;
+    }
+
+    .rightheader p {
+        text-align: center;
+
+    }
+
+    .page_container {
+        display: inline-block;
+    }
+
+    .inline-fields {
+        display: inline-block;
+    }
+
+    .box-container {
+        display: block;
+    }
+}
