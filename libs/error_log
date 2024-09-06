@@ -1,0 +1,703 @@
+[18-Aug-2022 17:19:24 UTC] PHP Parse error:  syntax error, unexpected 'date_default_timezone_set' (T_STRING) in /home/shanzayz/scriptforever.com/fernando/frnando/common/commonfiles.php on line 3
+[18-Aug-2022 17:19:26 UTC] PHP Parse error:  syntax error, unexpected 'date_default_timezone_set' (T_STRING) in /home/shanzayz/scriptforever.com/fernando/frnando/common/commonfiles.php on line 3
+[18-Aug-2022 17:19:28 UTC] PHP Parse error:  syntax error, unexpected 'date_default_timezone_set' (T_STRING) in /home/shanzayz/scriptforever.com/fernando/frnando/common/commonfiles.php on line 3
+[24-May-2024 20:57:49 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/insert.php(50): db::open()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:57:51 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:57:53 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:57:55 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:57:57 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:57:59 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:01 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:03 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:05 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:10 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:12 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:14 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:16 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:18 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:20 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:22 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:24 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:26 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:28 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:30 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:32 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:34 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:36 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:38 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:40 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:42 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:44 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:46 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:48 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:50 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:52 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:54 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:56 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:58:58 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:59:00 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:59:02 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:59:04 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 20:59:06 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:00:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:09 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:12 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:14 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:16 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:18 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:20 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:22 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:24 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:26 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:28 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:30 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:32 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:34 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:36 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:38 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:40 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:42 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:44 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:46 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:48 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:50 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:52 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:54 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:56 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:01:58 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:02:00 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:02:02 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:02:04 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:02:06 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:02:08 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:02:10 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:03:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:04:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:05:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:06:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:07:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:08:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:09:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:10:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:11:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:12:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:13:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:26
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(26): mysqli_connect()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(84): db::open()
+#2 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#3 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 26
+[24-May-2024 21:14:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:15:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:16:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:17:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:18:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:19:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:20:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:21:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:22:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:23:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:07 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:26 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:27 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:29 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:31 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:33 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:35 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:37 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:39 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
+[24-May-2024 21:24:41 Europe/Brussels] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'shanzayz_vodafone'@'localhost' to database 'shanzayz_vodafone' in /home/shanz...' at line 1 in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php:85
+Stack trace:
+#0 /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php(85): mysqli->query()
+#1 /home/shanzayz/staging.scriptforever.com/swisspost/libs/gets.php(40): db::getRecord()
+#2 {main}
+  thrown in /home/shanzayz/staging.scriptforever.com/swisspost/common/database.php on line 85
